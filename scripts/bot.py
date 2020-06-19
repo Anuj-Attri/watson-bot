@@ -1,7 +1,7 @@
 import discord as ds
 
 client = ds.Client()
-TOKEN = 'NzIzNDAzNjcwNzU0MTY0Nzc2.XuxT8Q.k1gnZ42ozjYySTxDKulZdpPMptM'
+TOKEN = ' '
 
 @client.event
 async def on_ready():
