@@ -2,7 +2,7 @@ import discord as ds
 import secret
 
 client = ds.Client()
-TOKEN = secret.token
+TOKEN = pass
 
 @client.event
 async def on_ready():
