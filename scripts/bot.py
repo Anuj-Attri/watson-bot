@@ -1,7 +1,7 @@
 import discord
-import secret
+import os
 
-client = ds.Client()
+client = discord.Client()
 TOKEN = process.env.bot_token
 
 @client.event
